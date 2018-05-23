@@ -12,6 +12,7 @@
 		40319E5320B57FBE00396EE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40319E5120B57FBE00396EE2 /* Main.storyboard */; };
 		40319E5520B57FC000396EE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40319E5420B57FC000396EE2 /* Assets.xcassets */; };
 		40319E5820B57FC000396EE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40319E5620B57FC000396EE2 /* LaunchScreen.storyboard */; };
+		40319E6020B57FF500396EE2 /* Al Qalam Quran Majeed.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40319E5F20B57FF500396EE2 /* Al Qalam Quran Majeed.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		40319E5420B57FC000396EE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		40319E5720B57FC000396EE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		40319E5920B57FC000396EE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40319E5F20B57FF500396EE2 /* Al Qalam Quran Majeed.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Al Qalam Quran Majeed.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		40319E4C20B57FBE00396EE2 /* test project */ = {
 			isa = PBXGroup;
 			children = (
+				40319E5F20B57FF500396EE2 /* Al Qalam Quran Majeed.ttf */,
 				40319E4D20B57FBE00396EE2 /* AppDelegate.swift */,
 				40319E4F20B57FBE00396EE2 /* ViewController.swift */,
 				40319E5120B57FBE00396EE2 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				40319E5820B57FC000396EE2 /* LaunchScreen.storyboard in Resources */,
 				40319E5520B57FC000396EE2 /* Assets.xcassets in Resources */,
 				40319E5320B57FBE00396EE2 /* Main.storyboard in Resources */,
+				40319E6020B57FF500396EE2 /* Al Qalam Quran Majeed.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
